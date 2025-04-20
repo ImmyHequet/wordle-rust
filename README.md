@@ -1,5 +1,5 @@
 # wordle-rust
-For learning.
+For learning. To play, clone the repo and `cargo run`.
 
 looks like this:
 
