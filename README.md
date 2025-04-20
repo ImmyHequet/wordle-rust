@@ -1,0 +1,2 @@
+# wordle-rust
+For learning
