@@ -1,2 +1,6 @@
 # wordle-rust
-For learning
+For learning.
+
+looks like this:
+
+![Example](./resources/example.png)
